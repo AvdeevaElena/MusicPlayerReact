@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/MusicPlayerReact/static/css/main.058cb6c0.chunk.css",
+    "main.js": "/MusicPlayerReact/static/js/main.246eec27.chunk.js",
+    "main.js.map": "/MusicPlayerReact/static/js/main.246eec27.chunk.js.map",
+    "runtime-main.js": "/MusicPlayerReact/static/js/runtime-main.34e43adb.js",
+    "runtime-main.js.map": "/MusicPlayerReact/static/js/runtime-main.34e43adb.js.map",
+    "static/js/2.eda32ad2.chunk.js": "/MusicPlayerReact/static/js/2.eda32ad2.chunk.js",
+    "static/js/2.eda32ad2.chunk.js.map": "/MusicPlayerReact/static/js/2.eda32ad2.chunk.js.map",
+    "index.html": "/MusicPlayerReact/index.html",
+    "precache-manifest.202c93e8a75bfb31f8ac5911c419e467.js": "/MusicPlayerReact/precache-manifest.202c93e8a75bfb31f8ac5911c419e467.js",
+    "service-worker.js": "/MusicPlayerReact/service-worker.js",
+    "static/css/main.058cb6c0.chunk.css.map": "/MusicPlayerReact/static/css/main.058cb6c0.chunk.css.map",
+    "static/js/2.eda32ad2.chunk.js.LICENSE.txt": "/MusicPlayerReact/static/js/2.eda32ad2.chunk.js.LICENSE.txt",
+    "static/media/Bo Kaspers Orkester - En sl ndas andetag.mp3": "/MusicPlayerReact/static/media/Bo Kaspers Orkester - En sl ndas andetag.736d7196.mp3",
+    "static/media/Israel Kamakawiwoole - What A Wonderful World.mp3": "/MusicPlayerReact/static/media/Israel Kamakawiwoole - What A Wonderful World.2c065068.mp3",
+    "static/media/Madness Mdness - Our House.mp3": "/MusicPlayerReact/static/media/Madness Mdness - Our House.e9339edd.mp3",
+    "static/media/Martin Fierro - Coplas Telúricas.mp3": "/MusicPlayerReact/static/media/Martin Fierro - Coplas Telúricas.f085a0f5.mp3",
+    "static/media/Rapossa - Burlesque.mp3": "/MusicPlayerReact/static/media/Rapossa - Burlesque.00dc1200.mp3",
+    "static/media/Sufjan Stevens - Mystery of Love.mp3": "/MusicPlayerReact/static/media/Sufjan Stevens - Mystery of Love.d47a2cdf.mp3",
+    "static/media/App.css": "/MusicPlayerReact/static/media/back7.0c25d176.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.34e43adb.js",
+    "static/js/2.eda32ad2.chunk.js",
+    "static/css/main.058cb6c0.chunk.css",
+    "static/js/main.246eec27.chunk.js"
+  ]
+}
