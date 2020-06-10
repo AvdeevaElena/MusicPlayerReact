@@ -1,0 +1,67 @@
+
+
+.mus_pic{
+    position: relative;
+    width:  200px;
+    height: 200px;
+    display: inline-block;
+    border-radius: 50%;
+    margin:auto;
+    opacity: 0.8;
+    margin-top: 17px;
+  
+}
+
+.mus_pic:hover{
+    -webkit-transform: scale(1.05);
+    -ms-transform: scale(1.05);
+        transform: scale(1.05);
+        opacity: 1;
+}
+
+.mus_title{
+ 
+    position: block;
+    background-position: center center;
+    font-size: 17px;
+    font-style: italic;
+}
+
+.parent
+{
+    margin-right:0px;
+    width: auto;
+
+}
+.child
+{
+    height: 100px;
+   
+    width: 30%;
+    display: inline-block;
+    text-align: center;
+    margin-top: 30px;    
+}
+
+.header{
+    position: fixed;
+    text-align: center;
+    font-size: 50px;
+    position: fixed;
+    width: 100%;
+    padding-bottom: 200px;
+    height: 500px;
+}
+.h1{
+    color:#7BB6E9;
+    font-style: italic;
+}
+
+.footer{
+    text-align: center;
+    font-size: 20px;
+    padding-bottom: 0px;
+    color: #7BB6E9;
+    font-style: italic;
+}
+

@@ -1,0 +1,34 @@
+.playerLayout {
+    font: grey;
+    text-align: center;    
+    font-size: 25px;
+    text-align: center;
+    margin-top: 20px;
+    opacity: 0.8;
+    font-style: italic;
+  }
+  
+ 
+
+ button {
+  color: #0a8626;
+  background: #fff;
+  border: 1px solid #046918;
+  font-size: 15px;
+  padding: 9px 5px 9px 12px;
+  font-weight: normal;
+  margin: 6px 0;
+  margin-right: 10px;
+  display: inline-block;
+  text-decoration: none;
+  font-family: 'Open Sans', sans-serif;
+  min-width: 135px;
+  border-radius: 3px;
+  font-style: italic;
+  }
+
+  button:hover,  button:active  {
+    color:#fff;
+    background:#9cedcc;
+    font-style: italic;
+  }
